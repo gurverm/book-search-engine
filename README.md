@@ -20,7 +20,7 @@ For local installation:
 
 ## Usage
 
-Visit the deployed application at
+Visit the deployed application at https://infinite-journey-53420-e8ef911d7af7.herokuapp.com/
 
 ![DEMO]()
 
